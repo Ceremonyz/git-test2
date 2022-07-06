@@ -9,6 +9,8 @@ public class test {
         System.out.println("hello233");
         System.out.println("hello233");
         System.out.println("hello233");
-        
+
+        System.out.println("gitee test");
+
     }
 }
